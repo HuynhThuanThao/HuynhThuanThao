@@ -1,4 +1,4 @@
-### Hi, I'm Thuan Thao 👋
+### Hi, I'm Thuan Thao Huynh 👋
 
 CS Student based in Australia.
 <picture>
