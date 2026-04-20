@@ -1,5 +1,4 @@
-### Hi, I'm Thuan Thao Huynh 👋
-
+**BEWARE! THUAN THAO HUYNH HATH HIS CURSOR ON THEE.**
 CS Student based in Australia.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HuynhThuanThao/HuynhThuanThao/output/github-snake-dark.svg" />
